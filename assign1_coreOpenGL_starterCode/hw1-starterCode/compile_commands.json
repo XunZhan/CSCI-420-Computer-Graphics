@@ -1,0 +1,97 @@
+[
+ {
+  "directory": "/Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode", 
+  "arguments": [
+   "g++", 
+   "-c", 
+   "-DGLM_FORCE_RADIANS", 
+   "-std=c++11", 
+   "-Wno-deprecated-declarations", 
+   "-O3", 
+   "-I../external/glm/", 
+   "-I../openGLHelper-starterCode", 
+   "-I../external/imageIO", 
+   "-I../external/jpeg-9a-mac/include", 
+   "../openGLHelper-starterCode/pipelineProgram.cpp", 
+   "-o", 
+   "pipelineProgram.o"
+  ], 
+  "file": "../openGLHelper-starterCode/pipelineProgram.cpp"
+ }, 
+ {
+  "directory": "/Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode", 
+  "arguments": [
+   "g++", 
+   "-c", 
+   "-DGLM_FORCE_RADIANS", 
+   "-std=c++11", 
+   "-Wno-deprecated-declarations", 
+   "-O3", 
+   "-I../external/glm/", 
+   "-I../openGLHelper-starterCode", 
+   "-I../external/imageIO", 
+   "-I../external/jpeg-9a-mac/include", 
+   "../external/imageIO/imageIO.cpp", 
+   "-o", 
+   "imageIO.o"
+  ], 
+  "file": "../external/imageIO/imageIO.cpp"
+ }, 
+ {
+  "directory": "/Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode", 
+  "arguments": [
+   "g++", 
+   "-c", 
+   "-DGLM_FORCE_RADIANS", 
+   "-std=c++11", 
+   "-Wno-deprecated-declarations", 
+   "-O3", 
+   "-I../external/glm/", 
+   "-I../openGLHelper-starterCode", 
+   "-I../external/imageIO", 
+   "-I../external/jpeg-9a-mac/include", 
+   "../openGLHelper-starterCode/openGLMatrix.cpp", 
+   "-o", 
+   "openGLMatrix.o"
+  ], 
+  "file": "../openGLHelper-starterCode/openGLMatrix.cpp"
+ }, 
+ {
+  "directory": "/Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode", 
+  "arguments": [
+   "g++", 
+   "-c", 
+   "-DGLM_FORCE_RADIANS", 
+   "-std=c++11", 
+   "-Wno-deprecated-declarations", 
+   "-O3", 
+   "-I../external/glm/", 
+   "-I../openGLHelper-starterCode", 
+   "-I../external/imageIO", 
+   "-I../external/jpeg-9a-mac/include", 
+   "hw1.cpp", 
+   "-o", 
+   "hw1.o"
+  ], 
+  "file": "hw1.cpp"
+ }, 
+ {
+  "directory": "/Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode", 
+  "arguments": [
+   "g++", 
+   "-c", 
+   "-DGLM_FORCE_RADIANS", 
+   "-std=c++11", 
+   "-Wno-deprecated-declarations", 
+   "-O3", 
+   "-I../external/glm/", 
+   "-I../openGLHelper-starterCode", 
+   "-I../external/imageIO", 
+   "-I../external/jpeg-9a-mac/include", 
+   "../openGLHelper-starterCode/basicPipelineProgram.cpp", 
+   "-o", 
+   "basicPipelineProgram.o"
+  ], 
+  "file": "../openGLHelper-starterCode/basicPipelineProgram.cpp"
+ }
+]
