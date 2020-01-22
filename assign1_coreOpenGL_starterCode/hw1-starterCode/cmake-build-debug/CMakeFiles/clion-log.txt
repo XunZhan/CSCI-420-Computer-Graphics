@@ -1,7 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode
-hw1: MAIN PROJECT: hw1
-hw1: CURR PROJECT: /Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode
-hw1: CURR BIN DIR: /Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/xun/Documents/USC/Class/CSCI-420-Computer-Graphics/assign1/assign1_coreOpenGL_starterCode/hw1-starterCode/cmake-build-debug
