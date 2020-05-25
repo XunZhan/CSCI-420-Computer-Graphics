@@ -36,8 +36,8 @@ Features:
 6. Press 'p' to stop and continue roller coaster.  
 
 ### Assignment3  
-Demo: 
-![](assign3/result/table.jpg)  |  ![](assign3/result/test2.jpg)
+Demo:  
+  <img src="assign3/result/table.jpg" width="150" /> <img src="assign3/result/test2.jpg" width="150" />  
 Description: Build a ray tracer which is able to deal with spheres and triangles. The color in each pixel is calculated based on Phong shading. [Details](http://barbic.usc.edu/cs420-s20/assign3/index.html)  
 
 Features:
