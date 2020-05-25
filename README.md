@@ -6,7 +6,7 @@
 
 **Instructor:** Prof. [Jernej Barbic](http://barbic.usc.edu), USC
 
-This course is an introduction to three-dimensional computer graphics. Students will learn both the theory of 3D computer graphics, and how to program it efficiently using OpenGL. The course primarily teaches the "modern" shader-based OpenGL (core profile), but also introduces the "classic" fixed-function OpenGL (compatibility profile). Topics include 2D and 3D transformations, Bézier and B-Spline curves for geometric modeling, interactive 3D graphics programming, computer animation and kinematics, and computer graphics rendering including ray tracing, shading and lighting. 
+This course is an introduction to three-dimensional computer graphics. Students will learn both the theory of 3D computer graphics, and how to program it efficiently using OpenGL. The course primarily teaches the "modern" shader-based OpenGL (core profile), but also introduces the "classic" fixed-function OpenGL (compatibility profile). Topics include 2D and 3D transformations, Bézier and B-Spline curves for geometric modeling, interactive 3D graphics programming, computer animation and kinematics, and computer graphics rendering including ray tracing, shading and lighting. 
 
 ## Assignments
 ### Assignment1
@@ -36,7 +36,8 @@ Features:
 6. Press 'p' to stop and continue roller coaster.  
 
 ### Assignment3  
-Demo: See test2.jpg and table.jpg in 'result' folder.  
+Demo: 
+![](assign3/result/table.jpg)  |  ![](assign3/result/test2.jpg)
 Description: Build a ray tracer which is able to deal with spheres and triangles. The color in each pixel is calculated based on Phong shading. [Details](http://barbic.usc.edu/cs420-s20/assign3/index.html)  
 
 Features:
