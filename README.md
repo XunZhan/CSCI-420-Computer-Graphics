@@ -32,7 +32,7 @@ Features:
 2. Texture of rail simulates the effect of glass.  
 3. Render different sky-box and light color for day mode and night mode.  
 4. Render a sphere as moon with realistic texture for night mode.  
-5. Create comets crossing the sky at night.  
+5. Create comets crossing the sky at random speed and length.
 6. Press 'p' to stop and continue roller coaster.  
 
 ### Assignment3  
