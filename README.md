@@ -10,7 +10,8 @@ This course is an introduction to three-dimensional computer graphics. Students 
 
 ## Assignments
 ### Assignment1
-Demo: [https://youtu.be/ZzU1abfrd6g](https://youtu.be/ZzU1abfrd6g)  
+**Demo Video**: [**https://youtu.be/ZzU1abfrd6g**](https://youtu.be/ZzU1abfrd6g)
+  <img src="assign1/result/line.png" width="250" /> <img src="assign1/result/point.png" width="250" /> <img src="assign1/result/filled.png" width="250" />  
 Description: The code takes a 2D heightmap as input and converts it to 3D point cloud. There are three rendering methods for demostration, including point mode, line mode and filled mode. Users can also interact with the point cloud to make deformation. [Details](http://barbic.usc.edu/cs420-s20/assign1/index.html)  
 
 Change Mode:  
@@ -24,7 +25,8 @@ Key R + LeftMouse and RightMouse: Rotation
 Key S + LeftMouse and RightMouse: Scaling  
 
 ### Assignment2
-Demo: [https://youtu.be/ZoYw3fEaAzE](https://youtu.be/ZoYw3fEaAzE)  
+**Demo Video**: [**https://youtu.be/ZoYw3fEaAzE**](https://youtu.be/ZoYw3fEaAzE)  
+  <img src="assign2/result/day.png" width="250" /> <img src="assign2/result/night.png" width="250" />
 Description: Use Catmull-Rom splines along with OpenGL core profile shader-based lighting and texture mapping to create a roller coaster simulation. [Details](http://barbic.usc.edu/cs420-s20/assign2/index.html)  
 
 Features:
@@ -36,7 +38,7 @@ Features:
 6. Press 'p' to stop and continue roller coaster.  
 
 ### Assignment3  
-Demo:  
+**Demo**:  
   <img src="assign3/result/table.jpg" width="250" /> <img src="assign3/result/test2.jpg" width="250" />  
 Description: Build a ray tracer which is able to deal with spheres and triangles. The color in each pixel is calculated based on Phong shading. [Details](http://barbic.usc.edu/cs420-s20/assign3/index.html)  
 
